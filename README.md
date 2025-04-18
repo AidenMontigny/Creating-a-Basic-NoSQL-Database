@@ -11,20 +11,20 @@ The NoSQL Database project demonstrates the creation and manipulation of a Mongo
 
 <h2>Project walk-through:</h2>
 <p align="left">
-Demonstrated the creation of a new collection of hotel documents in MongoDB, initializing the <br/> database structure to store relevant hotel information such as names, addresses, room rates, and room types. <br/><br/>
+Demonstrated the creation of a new collection of hotel documents in MongoDB, initializing <br/> the database structure to store relevant hotel information such as names, addresses, <br/> room rates, and room types. <br/><br/>
   <img src="Screenshot 2025-04-17 200401.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-Populated the MongoDB collection with three hotel entries, each containing detailed fields including <br/> name, address, room rates, and room types to support structured data retrieval and analysis. <br/><br/>
+Populated the MongoDB collection with three hotel entries, each containing detailed fields <br/> including name, address, room rates, and room types to support structured data retrieval <br/> and analysis. <br/><br/>
   <img src="Screenshot 2025-04-17 200409.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-Updated hotel documents in the MongoDB collection to include unique arrays of three amenities <br/> for each hotel, enhancing data richness and query flexibility. (See part 2 bellow)
+Updated hotel documents in the MongoDB collection to include unique arrays of three <br/> amenities for each hotel, enhancing data richness and query flexibility (See part 2 bellow).
  <br/><br/>
   <img src="Screenshot 2025-04-17 200416.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-Part 2 <br/><br/>
+Part 2. <br/><br/>
   <img src="Screenshot 2025-04-17 200422.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
