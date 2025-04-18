@@ -11,26 +11,27 @@ The NoSQL Database project demonstrates the creation and manipulation of a Mongo
 
 <h2>Project walk-through:</h2>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Demonstrated the creation of a new collection of hotel documents in MongoDB, initializing the <br/> database structure to store relevant hotel information such as names, addresses, room rates, and room types. <br/><br/>
+  <img src="Screenshot 2025-04-17 200401.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Populated the MongoDB collection with three hotel entries, each containing detailed fields including <br/> name, address, room rates, and room types to support structured data retrieval and analysis. <br/><br/>
+  <img src="Screenshot 2025-04-17 200409.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Updated hotel documents in the MongoDB collection to include unique arrays of three amenities <br/> for each hotel, enhancing data richness and query flexibility. (See part 2 bellow)
+ <br/><br/>
+  <img src="Screenshot 2025-04-17 200416.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Part 2 <br/><br/>
+  <img src="Screenshot 2025-04-17 200422.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Demonstrated the removal of all amenities from Hotel B in the MongoDB collection to showcase <br/> selective document updates and data modification techniques. <br/><br/>
+  <img src="Screenshot 2025-04-17 200428.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEST <br/><br/>
-  <img src="Screenshot 2025-04-17 175330.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verified the successful creation of three hotel documents within the MongoDB collection. <br/><br/>
+  <img src="Screenshot 2025-04-17 200436.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
